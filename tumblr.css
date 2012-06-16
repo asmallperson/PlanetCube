@@ -14,7 +14,6 @@ ol.tumblr_posts {
 ol.tumblr_posts li {
 	padding-bottom: 75px;
 	margin-top: 75px;
-	background: url('http://static.tumblr.com/qxrkgx6/WD0l8uiwf/post-bg.gif') no-repeat center bottom;
 }
 
 .tumblr_post {
@@ -26,13 +25,11 @@ ol.tumblr_posts li {
 .tumblr_text_post {
 	padding-bottom: 75px;
 	margin-top: 75px;
-	background: url('http://static.tumblr.com/qxrkgx6/WD0l8uiwf/post-bg.gif') no-repeat center bottom;
 }
 
 li.tumblr_post.tumblr_text_post {
 	padding-bottom: 75px;
 	margin-top: 75px;
-	background: url('http://static.tumblr.com/qxrkgx6/WD0l8uiwf/post-bg.gif') no-repeat center bottom;
 }
 
 div.tumblr_title {
