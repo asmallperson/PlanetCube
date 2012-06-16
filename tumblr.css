@@ -28,8 +28,9 @@ ol.tumblr_posts li {
 }
 
 li.tumblr_post.tumblr_text_post {
+	width: 940px;
+	margin: 0px auto 75px;
 	padding-bottom: 75px;
-	margin-top: 75px;
 }
 
 div.tumblr_title {
